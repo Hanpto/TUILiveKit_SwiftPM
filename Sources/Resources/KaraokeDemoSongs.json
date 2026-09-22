@@ -1,0 +1,76 @@
+{
+  "songs": [
+    {
+      "musicId": "local_demo_jiuxiang_guixiang",
+      "musicName": "旧巷桂香",
+      "artist": "AI Music",
+      "duration": 0,
+      "coverUrl": "",
+      "accompanyUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E6%97%A7%E5%B7%B7%E6%A1%82%E9%A6%99/%E6%97%A7%E5%B7%B7%E6%A1%82%E9%A6%99_inst.mp3",
+      "originalUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E6%97%A7%E5%B7%B7%E6%A1%82%E9%A6%99/%E6%97%A7%E5%B7%B7%E6%A1%82%E9%A6%99.wav",
+      "lyricUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E6%97%A7%E5%B7%B7%E6%A1%82%E9%A6%99/lyric.json",
+      "isOriginal": true,
+      "hasRating": false
+    },
+    {
+      "musicId": "local_demo_gravel_lane_home",
+      "musicName": "Gravel Lane Home",
+      "artist": "AI Music",
+      "duration": 0,
+      "coverUrl": "",
+      "accompanyUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/Gravel%20Lane%20Home/Gravel%20Lane%20Home_inst.mp3",
+      "originalUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/Gravel%20Lane%20Home/Gravel%20Lane%20Home.wav",
+      "lyricUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/Gravel%20Lane%20Home/lyric.json",
+      "isOriginal": true,
+      "hasRating": false
+    },
+    {
+      "musicId": "local_demo_furui_kippu",
+      "musicName": "古い切符",
+      "artist": "AI Music",
+      "duration": 0,
+      "coverUrl": "",
+      "accompanyUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E5%8F%A4%E3%81%84%E5%88%87%E7%AC%A6/%E5%8F%A4%E3%81%84%E5%88%87%E7%AC%A6_inst.mp3",
+      "originalUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E5%8F%A4%E3%81%84%E5%88%87%E7%AC%A6/%E5%8F%A4%E3%81%84%E5%88%87%E7%AC%A6.wav",
+      "lyricUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E5%8F%A4%E3%81%84%E5%88%87%E7%AC%A6/lyric.json",
+      "isOriginal": true,
+      "hasRating": false
+    },
+    {
+      "musicId": "local_demo_todokanai_melody",
+      "musicName": "届かないメロディ",
+      "artist": "AI Music",
+      "duration": 0,
+      "coverUrl": "",
+      "accompanyUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3_inst.mp3",
+      "originalUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3.wav",
+      "lyricUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3/lyric.json",
+      "isOriginal": true,
+      "hasRating": false
+    },
+    {
+      "musicId": "local_demo_rak_thoe_talot_wela",
+      "musicName": "รักเธอตลอดเวลา",
+      "artist": "AI Music",
+      "duration": 0,
+      "coverUrl": "",
+      "accompanyUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2_inst.mp3",
+      "originalUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2.wav",
+      "lyricUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/lyric.json",
+      "isOriginal": true,
+      "hasRating": false
+    },
+    {
+      "musicId": "local_demo_ruh_alkhalij",
+      "musicName": "روح الخليج",
+      "artist": "AI Music",
+      "duration": 0,
+      "coverUrl": "",
+      "accompanyUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%D8%B1%D9%88%D8%AD%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D8%B1%D9%88%D8%AD%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC_inst.mp3",
+      "originalUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%D8%B1%D9%88%D8%AD%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D8%B1%D9%88%D8%AD%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC.wav",
+      "lyricUrl": "https://raw.githubusercontent.com/znhyo/AIMusic/main/%D8%B1%D9%88%D8%AD%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/lyric.json",
+      "isOriginal": true,
+      "hasRating": false
+    }
+  ]
+}
