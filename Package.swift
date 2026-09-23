@@ -27,7 +27,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/Hanpto/AtomicX_SwiftPM.git",
-                 from: "1.0.9"),
+                 from: "1.0.10"),
         .package(url: "https://github.com/Hanpto/AtomicXCore_SwiftPM.git",
                  from: "4.3.8"),
         .package(url: "https://github.com/Hanpto/RTCRoomEngine_SwiftPM.git",
@@ -39,7 +39,7 @@ let package = Package(
         .package(url: "https://github.com/Tencent-RTC/TUICore_SwiftPM.git",
                  from: "8.6.7020"),
         .package(url: "https://github.com/SnapKit/SnapKit.git", from: "5.7.1"),
-        .package(url: "https://github.com/onevcat/Kingfisher.git", from: "8.12.0"),
+        .package(url: "https://github.com/onevcat/Kingfisher.git", from: "7.12.0"),
         .package(url: "https://github.com/CoderMJLee/MJRefresh.git", from: "3.7.9"),
     ],
     targets: [
