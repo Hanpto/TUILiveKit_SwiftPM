@@ -52,7 +52,7 @@ let package = Package(
                 .product(name: "TXIMSDK_Plus", package: "TXIMSDK_Plus_SwiftPM"),
                 .product(name: "TRTC_Professional",
                          package: "TRTC_Professional_SwiftPM"),
-                .product(name: "TUICore", package: "TUICore_SwiftPM"),
+                .product(name: "TUICore_SwiftPM", package: "TUICore_SwiftPM"),
                 .product(name: "SnapKit", package: "SnapKit"),
                 .product(name: "Kingfisher", package: "Kingfisher"),
                 .product(name: "MJRefresh", package: "MJRefresh"),
